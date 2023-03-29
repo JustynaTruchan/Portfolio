@@ -1,4 +1,13 @@
 # O mnie
 
-#  Kursy
+# Umiejętności techniczne
 
+# Kursy
+
+# Narzędzia
+
+# Blogi
+
+# Dokumentacja 
+
+#  Lektura 
