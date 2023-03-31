@@ -23,6 +23,9 @@ wnieść znaczący wkład do Twojego zespołu.
 
 # Narzędzia
 *  Jira
+*  Postman
+*  Test Link
+*  VisualStudio Code
 *  Trello
 *  DevTools
 
