@@ -10,7 +10,7 @@ wnieść znaczący wkład do Twojego zespołu.
 
 # Umiejętności 
 * Tworzenie przypadków testowych
-*  Zgłaszanie błędó
+*  Zgłaszanie błędw
 *  SQL
 *  SCRUM
 
