@@ -1,4 +1,10 @@
-# O 
+# O mnoe
+Jestem osobą pełną pasji i zaangażowania, która chce
+rozwijać swoją karierę w obszarze IT. Chętnie
+wykorzystam swoją wiedzę i doświadczenie, aby sprostać
+wszelkim wyzwaniom, które pojawią się na mojej drodze i
+wnieść znaczący wkład do Twojego zespołu.
+
 
 
 # Umiejętności 
