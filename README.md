@@ -1,4 +1,5 @@
-#O mnie
+# O mnie  
+
 Jestem osobą pełną pasji i zaangażowania, która chce
 rozwijać swoją karierę w obszarze IT. Chętnie
 wykorzystam swoją wiedzę i doświadczenie, aby sprostać
