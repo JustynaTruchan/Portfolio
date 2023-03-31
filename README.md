@@ -18,6 +18,8 @@ wnieść znaczący wkład do Twojego zespołu.
 # Kursy
 * Sii "Zostań testerme"
 *  Udemy "Pdstawy manualnego testowania "
+* Maraton GoIT
+* QA Maraton GoIT
 
 # Narzędzia
 *  Jira
