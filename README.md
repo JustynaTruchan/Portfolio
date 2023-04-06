@@ -9,10 +9,10 @@ wnieść znaczący wkład do Twojego zespołu.
 
 
 # Umiejętności
-:pushpin:  Tworzenie przypadków testowych
-:pushpin:  Zgłaszanie błędów
- :pushpin: SQL 
-:pushpin: SCRUM 
+:pushpin:  Tworzenie przypadków testowych  
+:pushpin:  Zgłaszanie błędów   
+ :pushpin:  SQL  
+:pushpin:  SCRUM
 
 
 # Kursy
