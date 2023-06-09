@@ -16,9 +16,9 @@ wnieść znaczący wkład do Twojego zespołu.
 
 
 # Kursy
-:heavy_check_mark: Sii "Zostań testerme"
-:heavy_check_mark: Udemy "Pdstawy manualnego testowania "
-:heavy_check_mark: Maraton GoIT
+:heavy_check_mark: Sii "Zostań testerme" 
+:heavy_check_mark: Udemy "Pdstawy manualnego testowania " 
+:heavy_check_mark: Maraton GoIT 
 :heavy_check_mark: QA Maraton GoIT
 
 # Narzędzia
