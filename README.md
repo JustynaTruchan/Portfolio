@@ -22,12 +22,12 @@ wnieść znaczący wkład do Twojego zespołu.
 :mortar_board: QA Maraton GoIT  
 
 # Narzędzia
-*  Jira
-*  Postman
-*  Test Link
-*  VisualStudio Code
-*  Trello
-*  DevTools
+:hammer_and_wrench:  Jira  
+:hammer_and_wrench:  Postman  
+:hammer_and_wrench:  Test Link  
+:hammer_and_wrench:  VisualStudio Code  
+:hammer_and_wrench:  Trello  
+:hammer_and_wrench:  DevTools  
 
 
 
