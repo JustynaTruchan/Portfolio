@@ -6,7 +6,9 @@ wykorzystam swoją wiedzę i doświadczenie, aby sprostać
 wszelkim wyzwaniom, które pojawią się na mojej drodze i
 wnieść znaczący wkład do Twojego zespołu.
 
-
+# Certyfikaty
+:1st_place_medal: Certyfikat ISTQB Foundation Level   
+:1st_place_medal: Podstawy manualnego testowania oprogramowania
 
 # Umiejętności
 :pushpin:  Tworzenie przypadków testowych  
