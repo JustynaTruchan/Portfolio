@@ -16,10 +16,10 @@ wnieść znaczący wkład do Twojego zespołu.
 
 
 # Kursy
-:heavy_check_mark: Sii "Zostań testerem"   
-:heavy_check_mark: Udemy "Pdstawy manualnego testowania "   
-:heavy_check_mark: Maraton GoIT   
-:heavy_check_mark: QA Maraton GoIT  
+:mortar_board: Sii "Zostań testerem"   
+:mortar_board: Udemy "Pdstawy manualnego testowania "   
+:mortar_board: Maraton GoIT   
+:mortar_board: QA Maraton GoIT  
 
 # Narzędzia
 *  Jira
