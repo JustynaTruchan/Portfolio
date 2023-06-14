@@ -40,6 +40,7 @@ wnieść znaczący wkład do Twojego zespołu.
 
 # Dokumentacja
 :scroll: [Scenariusz testowy](https://docs.google.com/document/d/1_Ic29ayg5Rbt_yT-Ewig8u3sM6kvHo1Q/edit?usp=sharing&ouid=116519416121545485401&rtpof=true&sd=true)
+:scroll: [Zadania SQL](https://docs.google.com/document/d/11KIgPTsVUckXNYNUv6P0Q9Q3bEj7kHBOpwSnBLruAQE/edit?usp=sharing)
 
 #  Grupy facebook
 * Testuj,  Dziewczyn!
